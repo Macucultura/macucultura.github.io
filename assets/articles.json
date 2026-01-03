@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "layoutKey": "default",
+    "imageSrc": "assets/landing-page-card.jpg",
+    "imageAlt": "Roda de conversa comunitária",
+    "title": "Memória viva nos terreiros",
+    "subtitle": "Como os encontros fortalecem a identidade coletiva.",
+    "summary": "Relatos sobre encontros semanais que unem gerações e fortalecem a cultura local.",
+    "tags": ["macucultura", "memoria", "encontros"],
+    "contentHtml": "<p>Os encontros semanais reúnem diferentes gerações para partilhar histórias, músicas e rituais.</p><p><strong>Resultado:</strong> mais conexão e presença nas ações culturais.</p>"
+  },
+  {
+    "id": 2,
+    "layoutKey": "default",
+    "imageSrc": "assets/contact.jpg",
+    "imageAlt": "Registro fotográfico de uma oficina",
+    "title": "Oficinas de ancestralidade",
+    "subtitle": "Formações que despertam pertencimento.",
+    "summary": "Vivências práticas que cuidam da memória coletiva e fortalecem laços comunitários.",
+    "tags": ["oficinas", "ancestralidade", "formacao"],
+    "contentHtml": "<p>As oficinas promovem o cuidado com a oralidade e com a memória coletiva.</p><ul><li>Vivências práticas</li><li>Diálogo aberto</li><li>Fortalecimento comunitário</li></ul>"
+  },
+  {
+    "id": 3,
+    "layoutKey": "default",
+    "imageSrc": "assets/landing-page-card.jpg",
+    "imageAlt": "Apresentação cultural",
+    "title": "Sons que ecoam no quilombo",
+    "subtitle": "A música como ponte entre gerações.",
+    "summary": "A força dos tambores e das celebrações mantendo viva a herança cultural.",
+    "tags": ["quilombo", "musica", "cultura"],
+    "contentHtml": "<p>Os tambores conduzem a celebração e mantêm viva a herança cultural.</p><p><em>Participação aberta</em> para moradores e visitantes.</p>"
+  },
+  {
+    "id": 4,
+    "layoutKey": "default",
+    "imageSrc": "assets/contact.jpg",
+    "imageAlt": "Equipe preparando material",
+    "title": "Produção colaborativa",
+    "subtitle": "Planejamento conjunto para novas publicações.",
+    "summary": "Comunidade e equipe técnica alinhando pautas e criando novas narrativas.",
+    "tags": ["producao", "colaboracao", "comunidade"],
+    "contentHtml": "<p>Equipe técnica e comunidade trabalham juntas na curadoria das pautas.</p><p>As próximas edições trazem histórias de resistência.</p>"
+  },
+  {
+    "id": 5,
+    "layoutKey": "default",
+    "imageSrc": "assets/landing-page-card.jpg",
+    "imageAlt": "Caderno de registros",
+    "title": "Diários da cultura local",
+    "subtitle": "Um espaço para registrar detalhes do cotidiano.",
+    "summary": "Registros mensais que destacam relatos em primeira pessoa e vivências locais.",
+    "tags": ["diarios", "cultura", "cotidiano"],
+    "contentHtml": "<p>Os registros são publicados mensalmente e trazem relatos em primeira pessoa.</p><p><u>Destaque:</u> participação ativa das juventudes.</p>"
+  },
+  {
+    "id": 6,
+    "layoutKey": "default",
+    "imageSrc": "assets/contact.jpg",
+    "imageAlt": "Mesa com artesanato",
+    "title": "Feira de saberes",
+    "subtitle": "Economia criativa e circulação de saberes.",
+    "summary": "Evento que conecta artesãs locais e fortalece a rede de colaboração.",
+    "tags": ["artesanato", "feira", "economia"],
+    "contentHtml": "<p>O evento reúne artesãs locais e fortalece a rede de colaboração.</p><p>As vendas apoiam projetos comunitários.</p>"
+  },
+  {
+    "id": 7,
+    "layoutKey": "default",
+    "imageSrc": "assets/landing-page-card.jpg",
+    "imageAlt": "Jovens em formação",
+    "title": "Formação para comunicadores",
+    "subtitle": "Novas narrativas produzidas pela comunidade.",
+    "summary": "Formação em comunicação para jovens contarem suas próprias histórias.",
+    "tags": ["formacao", "juventude", "comunicacao"],
+    "contentHtml": "<p>Jovens aprendem fotografia, vídeo e escrita para contar suas próprias histórias.</p>"
+  },
+  {
+    "id": 8,
+    "layoutKey": "default",
+    "imageSrc": "assets/contact.jpg",
+    "imageAlt": "Registro de reunião",
+    "title": "Agenda comunitária",
+    "subtitle": "Calendário de ações e mobilizações locais.",
+    "summary": "Encontros abertos que definem prioridades e cronogramas do semestre.",
+    "tags": ["agenda", "comunidade", "mobilizacao"],
+    "contentHtml": "<p>As reuniões abertas definem prioridades e cronogramas para todo o semestre.</p>"
+  },
+  {
+    "id": 9,
+    "layoutKey": "default",
+    "imageSrc": "assets/landing-page-card.jpg",
+    "imageAlt": "Liderança comunitária",
+    "title": "Lideranças em destaque",
+    "subtitle": "Histórias de quem inspira a caminhada.",
+    "summary": "Entrevistas especiais apresentam trajetórias de resistência e cuidado.",
+    "tags": ["lideranca", "entrevistas", "comunidade"],
+    "contentHtml": "<p>Entrevistas especiais apresentam trajetórias de resistência e cuidado.</p>"
+  },
+  {
+    "id": 10,
+    "layoutKey": "default",
+    "imageSrc": "assets/contact.jpg",
+    "imageAlt": "Arquivo histórico",
+    "title": "Acervo compartilhado",
+    "subtitle": "Documentos que preservam a história.",
+    "tags": ["acervo", "memoria", "documentos"],
+    "contentHtml": "<p>O acervo digital recebe novas contribuições a cada mês.</p>"
+  },
+  {
+    "id": 11,
+    "layoutKey": "default",
+    "imageSrc": "assets/landing-page-card.jpg",
+    "imageAlt": "Encontro ao ar livre",
+    "title": "Cuidado com o território",
+    "subtitle": "Ações coletivas de preservação ambiental.",
+    "tags": ["territorio", "ao ar livre", "preservacao"],
+    "contentHtml": "<p>Mutirões garantem o cuidado com nascentes e trilhas comunitárias.</p>"
+  },
+  {
+    "id": 12,
+    "layoutKey": "default",
+    "imageSrc": "assets/contact.jpg",
+    "imageAlt": "Oficina de escrita",
+    "title": "Palavras que transformam",
+    "subtitle": "Escrita criativa para jovens comunicadores.",
+    "tags": ["escrita", "criatividade", "juventude"],
+    "contentHtml": "<p><strong>T&iacute;tulo Principal da Aba</strong><br />Festival Macucultura 2025: Saberes, Fazeres e Resist&ecirc;ncias Quilombolas<br /> Alguns Banner do Festival Macucultura</p><p>O Macucultura 2025 te chama: venha sentir a for&ccedil;a e o calor</p><p>dos nossos quilombos!</p><p>Aqui no Macucultura, a gente n&atilde;o s&oacute; celebra, a gente vive e revive nossas hist&oacute;rias, tradi&ccedil;&otilde;es e<br />saberes que v&ecirc;m de muito antes da gente. &Eacute; mais que um festival, &eacute; um encontro de almas, de<br />mem&oacute;rias e de sonhos. &Eacute; aquele momento em que o Vale do Jequitinhonha e o cora&ccedil;&atilde;o das<br />comunidades quilombolas batem mais forte, chamando todo mundo pra se achegar e se<br />misturar com a energia que s&oacute; o quilombo sabe oferecer.</p><p><br />Este ano, de 4 a 11 de janeiro, o Macucultura traz uma programa&ccedil;&atilde;o que &eacute; um abra&ccedil;o cheio de<br />carinho, hist&oacute;ria e aprendizado. Aqui, cada espa&ccedil;o &eacute; uma janela aberta pras nossas ra&iacute;zes e<br />pras m&atilde;os que mant&ecirc;m nossa cultura viva e pulsante. E olha, n&atilde;o vai faltar emo&ccedil;&atilde;o nem coisa<br />boa e interessante pra aprender, ver e experimentar.</p><p><br />Logo de cara, voc&ecirc; vai ser recebido com as Caminhadas. A Caminhada Quilombola &eacute; aquela<br />jornada que faz a gente sentir no p&eacute; e no cora&ccedil;&atilde;o o peso bom da nossa hist&oacute;ria. &Eacute; onde os<br />caminhos da terra contam os passos de quem veio antes, resistiu e deixou um legado. J&aacute; na<br />Caminhada Ecol&oacute;gica, a gente para pra escutar o que a natureza tem pra nos ensinar. &Eacute; o<br />verde, o ar puro, as &aacute;rvores e as &aacute;guas mostrando que o quilombo tamb&eacute;m cuida e protege a<br />terra que d&aacute; vida.</p>"
+  }
+]
